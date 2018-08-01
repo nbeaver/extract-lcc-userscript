@@ -17,4 +17,4 @@ and displays it in the "Details" section.
 
 Hosted here on GreasyFork:
 
-https://greasyfork.org/en/users/200202-nathaniel-m-beaver
+https://greasyfork.org/en/scripts/370817-show-lcc-on-worldcat

@@ -12,3 +12,5 @@ by Douglas Crockford.
 
 This userscript extracts the LCC from the page
 and displays it in the "Details" section.
+
+![Library of Congress Classification : QA76.73.J39 C763 2008](example-screenshot.png)

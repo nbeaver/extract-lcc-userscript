@@ -5,6 +5,7 @@
 // @include     http*://www.worldcat.org/title/*
 // @license     MIT
 // @namespace   https://github.com/nbeaver/
+// @supportURL  https://github.com/nbeaver/extract-lcc-userscript/issues
 // @version     1.0
 // ==/UserScript==
 

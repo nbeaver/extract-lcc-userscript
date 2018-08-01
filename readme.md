@@ -14,3 +14,7 @@ This userscript extracts the LCC from the page
 and displays it in the "Details" section.
 
 ![Library of Congress Classification : QA76.73.J39 C763 2008](example-screenshot.png)
+
+Hosted here on GreasyFork:
+
+https://greasyfork.org/en/users/200202-nathaniel-m-beaver

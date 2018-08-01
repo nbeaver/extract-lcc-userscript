@@ -4,6 +4,7 @@
 // @grant       none
 // @include     http*://www.worldcat.org/title/*
 // @license     MIT
+// @namespace   https://github.com/nbeaver/
 // @version     1.0
 // ==/UserScript==
 
